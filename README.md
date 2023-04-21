@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I'll be working to make a simple recipe HTML page and move forward to include CSS. So far I've learnt the Git basics and few HTML tag lessons and I'll be putting this to good use.
