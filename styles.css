@@ -8,4 +8,9 @@
 
 ul, ol, p{
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+body{
+    background-color: #EADDCA;
 }
