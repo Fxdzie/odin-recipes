@@ -1,0 +1,11 @@
+.recipe, h1 , .link, h2{
+    font-family: Garamond, Georgia , serif;
+}
+
+.link{
+    color: black;
+}
+
+ul, ol, p{
+    font-family: 'Courier New', Courier, monospace;
+}
